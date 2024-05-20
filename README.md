@@ -16,5 +16,5 @@ The main loop captures video frames, processes them for motion detection, and di
 
 ## Key Controls:
 
-#### t: Toggle alarm mode on/off.
-#### q: Quit the application.
+- **t**: Toggle alarm mode on/off.
+- **q**: Quit the application.
